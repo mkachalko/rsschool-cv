@@ -50,3 +50,32 @@ nav ul {
   font-weight: bold;
 
 }
+
+nav ul li a {
+  padding-bottom: 3px;
+  border-bottom: 1px solid #000;
+}
+
+.contacts ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contacts li {
+  margin-bottom: 10px;
+}
+
+.languages ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.code pre {
+  padding: 10px;
+  font-size: 10px;
+  background-color: #dedede;
+  border-radius: 12px;
+}
+
