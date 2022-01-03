@@ -94,3 +94,16 @@ I have only study projects as an experience yet.
 - [Universal](https://mkachalko.github.io/Universal)
 - [Tour-Plan](https://mkachalko.github.io/tour-plan/)
 
+## Education
+
+- **The Academy of Public Administration under the President of the Republic of Belarus**  
+  Qualification: Economist-Manager / 2010-2015;
+
+## Courses
+
+- **Glo Academy**:
+  - *Web-start* / 2021;
+  - *JS (in progress)*;
+- **RS-School**
+  - *JS/Front-end. Stage 0 (in progress)*;
+
