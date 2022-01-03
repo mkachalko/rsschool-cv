@@ -107,3 +107,8 @@ I have only study projects as an experience yet.
 - **RS-School**
   - *JS/Front-end. Stage 0 (in progress)*;
 
+## Languages
+- Belorussian - native;
+- Russian - native;
+- Deutsch - B1;
+- English - A2;
