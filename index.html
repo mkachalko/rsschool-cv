@@ -127,7 +127,7 @@
         " " + i + " " + "попыток");
         i--;
 
-        if (i<=0) {
+        if (i&lt;=0) {
           let end = confirm("Попытки закончились, хотите сыграть еще?");
           if (end) {
             getNumber();
@@ -142,7 +142,7 @@
         } else if (userNam > n) {
           alert("Загаданное число меньше");
           testNumber();
-        }  else if (userNam < n) {
+        }  else if (userNam &lt; n) {
           alert("Загаданное число больше");
           testNumber();
         } else if (userNam == n) {
