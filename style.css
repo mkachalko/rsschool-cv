@@ -3,14 +3,18 @@
 }
 
 body {
-  background-color: #daf5dd;
-  font-family: Arial, Helvetica, sans-serif;
-
+  background-color: #dae9b7;
+  font-family: Arial, Helvetica, sans-serif
 }
 
 .container {
-  width: 90%;
   margin: auto;
+  padding: 30px;
+  max-width: 960px;
+  background-color: #daf5dd;
+  border: 2px solid #2b3b2d;
+  border-radius: 10px;
+  box-shadow: 0 0 16px 12px rgba(0, 0, 0, 0.2);
 }
 
 a {
@@ -20,6 +24,7 @@ a {
 
 .avatar {
   border-radius: 10px;
+  width: 100%;
 }
 
 h1 {
@@ -38,11 +43,13 @@ h2 {
 
 .left-part {
   margin-right: 30px;
+  min-width: 300px;
 }
 
 nav ul {
   margin: 0;
-  padding: 20px 0;
+  margin-bottom: 20px;
+  padding: 0;
   display: flex;
   justify-content: space-between;
   list-style: none;
@@ -80,6 +87,9 @@ nav ul li a {
 }
 
 footer ul {
+  margin: 0;
+  padding: 0;
+  padding-top: 20px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
